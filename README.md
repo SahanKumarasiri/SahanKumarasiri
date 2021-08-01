@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahanKumarasiri
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Sri Lanka Institute of Information Technology 
+- 🌱 I’m currently learning at Sri Lanka Institute of Information Technology 
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me kumarasirisahan@gmail.com
 
