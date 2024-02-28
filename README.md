@@ -1,8 +1,8 @@
 > Who I am
 - 👋 Hi, I’m @SahanKumarasiri
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning at Sri Lanka Institute of Information Technology 
-- 💞️ I’m looking to collaborate on coding
+- 🌱 Graduated from Sri Lanka Institute of Information Technology 
+
 - 📫 How to reach me kumarasirisahan@gmail.com 
 - https://www.linkedin.com/in/sahankumarasiri 
 - 0776135690 
